@@ -5,6 +5,6 @@ public class JanaMethods {
 
     void myMethod()
     {
-        System.out.println("Janarthanan is teaching!");
+        System.out.println("gopi is teaching!");
     }
 }
