@@ -3,8 +3,8 @@ package linkedlists;
 public class JanaMethods {
 
 
-    void myMethod()
-    {
-        System.out.println("Janarthanan is learning!");
+    void myMethod() {
+        System.out.println("gopi is teaching!");
+
     }
 }
